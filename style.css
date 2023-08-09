@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3f3f3;
+    background-color: #6a99ff;
   }
   
   .contenedor {
@@ -8,7 +8,7 @@ body {
     margin: 0 auto;
     padding: 20px;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #70bbfc;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   
@@ -26,7 +26,7 @@ body {
   button {
     padding: 10px 20px;
     font-size: 1.5em;
-    background-color: #4CAF50;
+    background-color: #007bff;
     color: #ffffff;
     border: none;
     cursor: pointer;
